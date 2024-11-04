@@ -1,0 +1,6 @@
+[submodule "front-score-flow"]
+	path = front-score-flow
+	url = ./front-score-flow
+[submodule "back-score-flow"]
+	path = back-score-flow
+	url = ./back-score-flow
