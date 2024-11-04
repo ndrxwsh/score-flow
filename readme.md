@@ -12,9 +12,9 @@
 
 ## Стек технологий
 
-- **Frontend**: [Next.js](https://nextjs.org/), React
-- **Backend**: Flask
-- **ML Модель**: Python
+- **Frontend**: [React](https://react.dev/), [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/)
+- **Backend**: [Flask](https://flask.palletsprojects.com/)
+- **ML Модель**: [Python](https://www.python.org/)
 
 ---
 
