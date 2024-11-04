@@ -29,6 +29,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ndrxwsh/score-flow.git
+   git clone --recurse-submodules https://github.com/ndrxwsh/score-flow.git
+   git submodule update --remote
    cd score-flow
    ```
